@@ -1,4 +1,4 @@
-Para este proyecto se uso un un modulo Ethernet ENC28J60 y un arduino 1 bajo la siguiente configuracion:
+Para este proyecto se uso un un modulo Ethernet ENC28J60 y un arduino UNO bajo la siguiente configuracion:
 
 CS D10 <br />
 SI D11 <br />
